@@ -14,6 +14,3 @@ sentence = """‌‌المبحث الثاني: حياته العلمية.
 
 #removeDiacritics(sentence)
 addDiacritics(sentence)
-#obtainSimmilarWords('قلب')
-
-# word2Vectector("فتح",'"فَتَحَ"')
