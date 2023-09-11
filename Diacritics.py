@@ -21,9 +21,7 @@ def addDiacritics(message):
         diacritized_paragraphs.append(diacritized_paragraph)
 
     diacritized_message = '\n'.join(diacritized_paragraphs)
-    # open the output file in write mode and write the output to it
     with open('output.txt', 'w', encoding='utf-8') as f:
         f.write(diacritized_message)
 
-    # print the number of characters in the output
     print(f"Number of characters in the output: {len(diacritized_message)}")
