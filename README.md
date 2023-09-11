@@ -1,4 +1,5 @@
 # AIRABIC Dataset
+AIRABIC Dataset is licensed by (CC BY 4.0) license.
 
 The AIRABIC dataset comprises two main categories:
 
