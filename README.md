@@ -9,6 +9,7 @@ Text Variations: To test the adaptability of AI detectors, the dataset includes 
 * Single and multi-paragraph compositions.
 * Bullet point formats.
 * Passages with in-text citations.
+
 This diversity ensures a comprehensive evaluation of AI detectors across different text types and structures.
 
 ## License
