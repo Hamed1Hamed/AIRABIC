@@ -1,10 +1,15 @@
 # AIRABIC: Arabic Dataset for Performance Evaluation of AI Detectors
 
-Dataset Characteristics
+## Dataset Characteristics:
+
 Source Diversity: Our human-written texts are sourced from a wide range of materials to ensure objectivity and unbiased content. This includes:
+
 Books: A selection of 40 books covering various topics and periods. Each book contributes unique passages to avoid overlap.
+
 News Articles: Articles from the Aljazeera website, specifically between 2014 and 2016, to ensure there is no potential for synthetic texts.
+
 Sample Size: The dataset is carefully constructed to comply with the character limits of AI detectors. Human-written texts vary in length, with shorter samples padded to meet a 1000-character minimum. AI-generated texts from ChatGPT are tailored to maintain consistency in character count and meaningful content.
+
 Text Variations: To test the adaptability of AI detectors, the dataset includes a diverse range of text structures:
 * Single and multi-paragraph compositions.
 * Bullet point formats.
