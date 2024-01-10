@@ -33,7 +33,7 @@ The AIRABIC dataset comprises two main categories:
 2. `Human-written texts.xlsx` - This dataset represents the collection of 500 examples of Arabic texts written by humans.
 
 ## Ready-to-Use Text Files
-We are pleased to announce that the dataset is also available in a ready-to-use text file format. Each category (`AI-generated texts` and `Human-written texts`) has been split into individual `.txt` files for ease of use. The `.txt` files are organized in the following folders:
+The dataset is also available in a ready-to-use text file format. Each category (`AI-generated texts` and `Human-written texts`) has been split into individual `.txt` files for ease of use. The `.txt` files are organized in the following folders:
 
 - `output_AI-generated_txt`: Contains 500 AI-generated Arabic texts, each saved as an individual `.txt` file.
 - `output_human-written_txt`: Contains 500 human-written Arabic texts, each saved as an individual `.txt` file.
