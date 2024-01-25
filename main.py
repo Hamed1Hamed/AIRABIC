@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-from Embedding import *
 from NonDiacritics import removeDiacritics
 from Diacritics import addDiacritics
 
