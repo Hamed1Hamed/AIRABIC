@@ -1,5 +1,6 @@
 # AIRABIC: Arabic Dataset for Performance Evaluation of AI Detectors
-
+# Link to the paper:
+https://ieeexplore-ieee-org.libproxy.bridgeport.edu/document/10459781
 ## Dataset Characteristics:
 
 Source Diversity: Our human-written texts are sourced from a wide range of materials to ensure objectivity and unbiased content. This includes:
